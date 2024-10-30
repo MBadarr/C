@@ -18,7 +18,7 @@ int main() {
 	}
 	result = MP+IP+HQ;
 	cout<<"Your Aggregate Is "<<result;
-    if(result>=60){
+    if (result>=60){
 	cout<<"\nYou Can Apply";
 	}
 	else{
