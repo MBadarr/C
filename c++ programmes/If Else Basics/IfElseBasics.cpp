@@ -14,7 +14,7 @@ int main() {
 	MP= ((num1/1100)*0.15)*100;
 	IP= ((num2/1100)*0.80)*100;
 	if (HafizStatus=='y'){
-	HQ=5;
+	HQ=5; 
 	}
 	result = MP+IP+HQ;
 	cout<<"Your Aggregate Is "<<result;
