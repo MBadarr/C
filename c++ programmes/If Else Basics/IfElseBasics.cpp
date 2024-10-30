@@ -2,6 +2,7 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 using namespace std;
+
 int main() {
 	double MP=0, IP=0,HQ=0,num1=0,num2=0,result=0;
 	char HafizStatus;
